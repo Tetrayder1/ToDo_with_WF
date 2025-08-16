@@ -1,5 +1,13 @@
 <h1 align="center">Salam 👋 Bu WF ToDo tətbiqidir.</h1>
 <h3 align="center">Mən bu WF tətbiqində .Net framework dən istifadə etmişəm və bunu sayəsində, codefirst ederek DB tərəfini asanlıqla həll olunub.</h3>
+<br/>
+<h4 align="left">İstifadə edilən kitabxanalar:</h4>
+
+```c#
+Microsoft.EntityFrameworkCore
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Tools
+```
 
 <br/>
 <h4 align="left">Gəlin kodlari bir-bir gözdən keçirək:</h4>
